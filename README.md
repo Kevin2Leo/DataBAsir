@@ -6,9 +6,8 @@
 
 平台文档：https://doc.databasir.com
 
-问题反馈：https://github.com/vran-dev/databasir/issues
 
-平台演示：[~~https://demo.databasir.com~~](http://demo.databasir.com)
+平台演示：(http://demo.databasir.com)
 
 | 账号 | 密码    | 角色       |
 | ---- | ------- | ---------- |
@@ -32,13 +31,7 @@
 
 注意：以上列表是目前社区已经验证过的，并不代表 [Databasir](https://github.com/vran-dev/databasir) 只支持这些。
 
-## 联系我
 
-微信扫码加入 Databasir 交流群，获取第一手版本内容。
-
-<img src="https://s2.loli.net/2022/07/17/SoyzvLaGniD8x67.jpg" width="250px" />
-
-[点击查看更多联系方式](https://doc.databasir.com/#/?id=联系)
 
 ## 多图展示
 
@@ -48,9 +41,7 @@
 
 更多内容，请查看[文档](https://doc.databasir.com)
 
-## 捐赠
 
-<img src="https://s2.loli.net/2022/05/23/phDIKagHwjZl3kA.jpg" width="280">
 
 ## License
 
